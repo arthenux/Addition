@@ -1,5 +1,12 @@
 public class Addition {
+
     public static void main(String[] args) {
-        System.out.println("Hello World");
+
+        String firstNumber;
+        String secondNumber;
+
+        int number1;
+        int number2;
+        int sum;
     }
 }
