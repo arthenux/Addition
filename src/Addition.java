@@ -19,5 +19,7 @@ public class Addition {
 
         sum = number1 + number2;
 
+        JOptionPane.showMessageDialog(null, "The sum is: " + sum, "Results", JOptionPane.PLAIN_MESSAGE);
+
     }
 }
