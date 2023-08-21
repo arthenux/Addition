@@ -17,5 +17,7 @@ public class Addition {
         number1 = Integer.parseInt(firstNumber);
         number2 = Integer.parseInt(secondNumber);
 
+        sum = number1 + number2;
+
     }
 }
