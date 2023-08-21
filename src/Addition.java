@@ -13,5 +13,9 @@ public class Addition {
 
         firstNumber = JOptionPane.showInputDialog("Enter first number");
         secondNumber = JOptionPane.showInputDialog("Enter second number");
+
+        number1 = Integer.parseInt(firstNumber);
+        number2 = Integer.parseInt(secondNumber);
+
     }
 }
